@@ -11,7 +11,7 @@ Este es un pequeño proyecto para calcular el interes compuesto en un determinad
 * Yup
 * Styled-Components
 
-## Instalaciion
+## Instalación
 
 Aqui se mostraran los pasos para la descarga del proyecto
 
